@@ -3927,6 +3927,9 @@ article.blog-single .blog-content {
         text-align: left;
         margin-bottom: 1.8rem;
     }
+    .w-img{
+        width:100% !important;
+    }
 }
 
 @media only screen and (max-width: 900px) {

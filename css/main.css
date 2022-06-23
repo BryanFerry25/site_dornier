@@ -4496,9 +4496,18 @@ transform:rotateY(45deg) translateZ(540px) scale(1)
         padding-bottom: 5vh;
     }
     .texte_roulotte{
-        padding-left: 0vh;
-        padding-right: 0vh;
-        
+        padding-left: 2vh !important;
+        padding-right: 2vh !important;
+
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .texte_roulotte{
+        padding-left: 3vh !important;
+        padding-right: 3vh !important;
+
     }
 }
 

@@ -4495,6 +4495,11 @@ transform:rotateY(45deg) translateZ(540px) scale(1)
     .encad_tireprat{
         padding-bottom: 5vh;
     }
+    .texte_roulotte{
+        padding-left: 0vh;
+        padding-right: 0vh;
+        
+    }
 }
 
 .nota{

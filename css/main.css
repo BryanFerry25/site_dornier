@@ -192,6 +192,14 @@ h6, .h06 {
     letter-spacing: .16rem;
 }
 
+#milieu-bloc { 
+    display: flex !important; 
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+    
+}
+
 p img {
     margin: 0;
 }
